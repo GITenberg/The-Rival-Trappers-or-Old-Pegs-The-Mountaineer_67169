@@ -1,0 +1,30 @@
+_repo: The-Rival-Trappers-or-Old-Pegs-The-Mountaineer_67169
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aiken, Albert W.
+    aliases:
+    - Sara, Delle
+    - Carson, Lewis W.
+    birthdate: 1846
+    deathdate: 1894
+    gutenberg_agent_id: '50219'
+    url: http://www.gutenberg.org/2009/agents/50219
+description: ''
+gutenberg_issued: '2022-01-15'
+identifiers:
+  gutenberg: '67169'
+language: en
+pgterms:marc905: 20200424120133various
+pgterms:marc906: '1876'
+pgterms:marc907: US
+production_note: David Edwards, Stephen Hutcheson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Northern Illinois University Digital Library)
+publication_note: United States :Beadle and Adams,1876,copyright 1884.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Rival Trappers: or, Old Pegs, The Mountaineer'
+url: http://www.gutenberg.org/ebooks/67169
